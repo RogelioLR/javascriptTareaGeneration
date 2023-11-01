@@ -1,0 +1,19 @@
+body {
+    background-color: #bfbfbf;
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    /* color: #c6fced;*/
+}
+
+h3 {
+    list-style: solid;
+}
+
+p {
+    text-align: justify;
+    margin-left: 0.5cm;
+    margin-right: 1cm;
+}
